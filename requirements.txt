@@ -9,3 +9,4 @@ langchain_chroma       # Helps store and search through chunks of text quickly a
 langchainhub           # A library to find and share Langchain components easily
 pypdf                  # Reads and works with PDF files inside Python
 rapidocr-onnxruntime   # Fast tool to read text from images using OCR (Optical Character Recognition)
+protobuf==3.20.3
